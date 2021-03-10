@@ -5,8 +5,7 @@
  Creator: 	Louis Varley
  Website:	https://github.com/louisvarley/streamlabs-SLOBS-simple-scene-swap
 
-Credit to Ocgineer who developed the bridge app for talking to SLOBS. Base of this developed from SimpleTTS
-by Bare7a so credit there also. Saved me recreating COST and COOLDOWN Logic. 
+Credit Bare7a. Saved me recreating COST and COOLDOWN Logic. 
 
  - Allow viewers to spend currency locking your mouse for a given duration to make your day bad
 
